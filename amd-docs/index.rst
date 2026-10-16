@@ -22,7 +22,7 @@ up processing on large datasets by parallelizing split computations, memory
 requirements increase with tree depth.
 
 XGBoost is part of the `AMD Finance toolkit
-<https://rocm.docs.amd.com/projects/rocm-finance/en/latest/>`__.
+<https://rocm.docs.amd.com/projects/finance/en/latest/>`__.
 
 The AMD Finance XGBoost source code is hosted on GitHub at
 `<https://github.com/AMD-Ecosystem/XGBoost/>`__.
@@ -42,4 +42,4 @@ The AMD Finance XGBoost source code is hosted on GitHub at
 
    .. grid-item-card:: Tutorial
 
-      * `Examples (GitHub) <https://github.com/AMD-Ecosystem/rocm-finance/tree/release/26.01/examples>`__
+      * `Examples (GitHub) <https://github.com/AMD-Ecosystem/finance/tree/release/26.01/examples>`__
