@@ -22,7 +22,7 @@ up processing on large datasets by parallelizing split computations, memory
 requirements increase with tree depth.
 
 XGBoost is part of the `AMD Finance toolkit
-<https://rocm.docs.amd.com/projects/rocm-finance/en/docs-26.05/>`__.
+<https://rocm.docs.amd.com/projects/finance/en/docs-26.05/>`__.
 
 The XGBoost public repository is located at `<https://github.com/AMD-Ecosystem/XGBoost/>`__.
 
@@ -45,6 +45,6 @@ The XGBoost public repository is located at `<https://github.com/AMD-Ecosystem/X
 
 
 To contribute to XGBoost, refer to
-`Contributing to AMD Finance <https://github.com/AMD-Ecosystem/rocm-finance/blob/release/26.01/CONTRIBUTING.md>`__.
+`Contributing to AMD Finance <https://github.com/AMD-Ecosystem/finance/blob/release/26.01/CONTRIBUTING.md>`__.
 
 You can find licensing information on the :doc:`Licensing <about/license>` page.
